@@ -1,6 +1,6 @@
 clear all
 * Write down the directory below
-cd "/Users/heitorpellegrina/Dropbox/my-hello-world-econ/analysis/code"
+cd "/Users/ahoang2/Library/CloudStorage/Dropbox/hello-world-econ/my-hello-world-econ/analysis/code"
 
 program main
 	clean_data
